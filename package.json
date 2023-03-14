@@ -1,0 +1,31 @@
+{
+  "name": "doc-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "basicFunctions.js",
+  "scripts": {
+    "dev": "tsc-watch --onSuccess \"node dist/basicFunctions.js\"",
+    "doc": "typedoc",
+    "test": "mocha",
+    "coverage": "nyc npm test && nyc report --reporter=lcov"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/chai": "^4.3.4",
+    "@types/mocha": "^10.0.1",
+    "@typescript-eslint/eslint-plugin": "^5.50.0",
+    "@typescript-eslint/parser": "^5.50.0",
+    "chai": "^4.3.7",
+    "eslint": "^8.33.0",
+    "eslint-config-prettier": "^8.6.0",
+    "mocha": "^10.2.0",
+    "nyc": "^15.1.0",
+    "prettier": "^2.8.3",
+    "ts-node": "^10.9.1",
+    "tsc-watch": "^6.0.0",
+    "typedoc": "^0.23.24",
+    "typescript": "^4.9.5"
+  }
+}
