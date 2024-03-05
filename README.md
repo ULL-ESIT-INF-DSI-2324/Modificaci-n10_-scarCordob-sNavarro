@@ -1,6 +1,6 @@
 # Calidad y seguridad del código fuente mediante Sonar Cloud
 
-[![Tests](https://github.com/ULL-ESIT-INF-DSI-2223/github-actions-sonar-cloud/actions/workflows/node.js.yml/badge.svg?branch=main)](https://github.com/ULL-ESIT-INF-DSI-2223/github-actions-sonar-cloud/actions/workflows/node.js.yml)
+[![Tests](https://github.com/ULL-ESIT-INF-DSI-2324/github-actions-sonar-cloud/actions/workflows/node.js.yml/badge.svg)](https://github.com/ULL-ESIT-INF-DSI-2324/github-actions-sonar-cloud/actions/workflows/node.js.yml)
 
 [![Coverage Status](https://coveralls.io/repos/github/ULL-ESIT-INF-DSI-2324/github-actions-sonar-cloud/badge.svg?branch=main)](https://coveralls.io/github/ULL-ESIT-INF-DSI-2324/github-actions-sonar-cloud?branch=main)
 
