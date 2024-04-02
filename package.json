@@ -2,10 +2,10 @@
   "name": "doc-test",
   "version": "1.0.0",
   "description": "",
-  "main": "basicFunctions.js",
+  "main": "index.js",
   "type": "module",
   "scripts": {
-    "dev": "tsc-watch --onSuccess \"node dist/basicFunctions.js\"",
+    "dev": "tsc-watch --onSuccess \"node dist/index.js\"",
     "doc": "typedoc",
     "test": "mocha",
     "coverage": "c8 npm test && c8 report --reporter=lcov"
@@ -27,6 +27,7 @@
     "ts-node": "^10.9.2",
     "tsc-watch": "^6.0.4",
     "typedoc": "^0.25.10",
-    "typescript": "^5.3.3"
+    "typescript": "^5.3.3",
+    "typedoc-material-theme": "^1.0.2"
   }
 }

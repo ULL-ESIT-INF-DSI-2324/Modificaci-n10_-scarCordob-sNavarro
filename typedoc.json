@@ -1,6 +1,9 @@
 {
   "entryPoints": [
-    "./src/basicFunctions.ts"
+      "./src/*.ts",
   ],
-  "out": "./docs"
+  "out": "./docs",
+  "name": "💻 Modificacion 10 - Clase 3/04/2024 💻",
+  "plugin": ["typedoc-material-theme"],
+  "themeColor": "#00FF73"
 }
