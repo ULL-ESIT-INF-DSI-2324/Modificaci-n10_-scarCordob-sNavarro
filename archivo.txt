@@ -20,3 +20,33 @@ Quinta prueba para ver si esto funciona
 Sexta prueba para comprobar si esto realmente funciona o no
 
 Septima prueba para comprobar si funciona o no
+
+Octava prueba para ver si es esto o no
+
+Novena prueba para ver si estoy en lo correcto o no, esta vez si funciona, es poque me encontraba en windows
+
+Vamos a ver como actua esto, ahora mismo voy a ver el tema de los emisores de eventos
+
+Voy a realizar los cambios para ver si la consola cambia
+
+Esto es una prueba para ver si esto cambia y que es lo que muestra por pantalla
+
+Esto es otra prueba para ver si array[4] es igual al nombre de programa y en efecto, estoy en lo correcto
+
+Vamos a modificar el archivo de texto para ver si se envia los datos correctamente al cliente
+
+Vamos a ver si el archivo de texto se envia correctamente al cliente
+
+Volvemos a modificar el archivo para comprobar si realmente el socket está funcionando correctamente
+
+Vamos a modificar otra vez para comprobar si esto está correctamente
+
+Hola que está pasando?
+
+Vamos a vovler a enviar algo a ver
+
+Creo que lo que está pasando es que llegan datos, pero hasta que el servidor nbo cierra la conexión no se envian los datos
+
+Otra vez
+
+Modificamos otra vez
